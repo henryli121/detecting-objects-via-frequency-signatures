@@ -3,9 +3,6 @@ The project uses a spatiotemporal seismometer to collect signals at regular inte
 
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Le Kraken de Seattle</title>
-  </head>
   <body>
     <h1>Le Kraken de Seattle</h1>
     <p>There’s a Kraken under the ice in Climate Pledge Arena. The players know that if the Kraken’s position coincides with that of the opponent, they can land a hard check. The movement of the Kraken causes vibrations to be carried up through the ice that the players can’t feel, but can be measured by a spatio-temporal seismometer at 1 minute and 15 second intervals, which is given in Kraken.mat and Kraken.csv.</p>
