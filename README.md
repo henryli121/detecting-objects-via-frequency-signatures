@@ -1,5 +1,6 @@
 # detecting-objects-via-frequency-signatures
 The project uses a spatiotemporal seismometer to collect signals at regular intervals, and analyzes them in the frequency domain using fast Fourier transform to detect object location. Applying filters to reduce noise and enhance signals helps to locate the object more accurately, and results are presented through figures.
+<h3>Project report CP1.pdf includes all the results and plots</h3>
 
 <!DOCTYPE html>
 <html>
@@ -16,5 +17,3 @@ The project uses a spatiotemporal seismometer to collect signals at regular inte
     <p>You may use the code CP1_sample.m to help you start analyzing the data. In the code we can see what happens when we threshold the data; i.e., we consider frequencies only above a certain strength. See what happens if you use a threshold of 0.3, 0.5, 0.7, and 0.9. Out of those, which gives you the most amount of data with the least (or an acceptable) amount of noise?</p>
   </body>
 </html>
-
-Project report and results are in the CP1.pdf file.
