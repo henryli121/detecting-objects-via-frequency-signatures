@@ -16,3 +16,5 @@ The project uses a spatiotemporal seismometer to collect signals at regular inte
     <p>You may use the code CP1_sample.m to help you start analyzing the data. In the code we can see what happens when we threshold the data; i.e., we consider frequencies only above a certain strength. See what happens if you use a threshold of 0.3, 0.5, 0.7, and 0.9. Out of those, which gives you the most amount of data with the least (or an acceptable) amount of noise?</p>
   </body>
 </html>
+
+Project report and results are in the CP1.pdf file.
